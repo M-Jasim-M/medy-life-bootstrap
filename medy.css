@@ -1,0 +1,471 @@
+@media (max-width:420px){
+    #nav{
+        padding: 0xp !important;
+    }   
+    .display{
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+    #im{
+        width: 250px;
+    }
+}
+
+
+body{
+    
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+}
+
+#main1{
+    background-color: #722df2;
+    height: 460px;
+    border-bottom-left-radius: 105px;
+}
+#nav{
+    
+}
+#medy{
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    font-family: 'Itim', cursive !important;
+}
+#ul{
+    font-size: 12px;
+    color: white;
+}
+#make{
+    border-radius: 20px;
+        width: 190px;
+    color: black;
+}
+#togle{
+    color: black;
+    }
+#add{
+    color: greenyellow;
+}
+#do{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+#what{
+    color: white;
+    font-size: 11px;
+}
+#button{
+    margin-top: 15px;
+    width: 130px;
+    color: white;
+    border-radius: 20px;
+    background-color:greenyellow;
+}
+#divc{
+    border: 1px solid black;
+    position: relative;top:30px;left: 10px;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    background-color: ;
+    width: 270px;
+    height: 300px;
+}
+#image{
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+  width: 270px;
+    height: 300px;
+}
+#main2{
+    
+
+}
+#image1{
+     border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+  width: 270px;
+    height: 300px;
+}
+#image11{
+     border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+  width: 270px;
+    height: 300px;
+}
+#som{
+    color: lightgreen;
+    font-size: 14px;
+}
+#the{
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+#lorem1{
+    font-size: 12px;
+}
+#lorem2{
+    font-size: 12px;
+    padding: 10px 0px;
+}
+#need{
+    font-size: 13px;
+    color: greenyellow;
+}
+/* this is the third part css  */
+
+#main3{
+    
+    
+    
+}
+
+
+.circle{
+           width: 50px;
+    height: 50px;
+    background-color: skyblue;
+    border-radius: 50%;
+    position: relative;
+    top: 38px;
+    left: 32px;
+        
+        }
+        .square{
+           width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-bottom-left-radius: 20px;
+    position: relative;
+    top: 11px;
+    left: 57px;
+        }
+        .phy{
+            width: 250px;
+            position: relative;
+    top: 31px;
+    left: 38px;
+            font-weight: bold;
+        }
+        .health{
+            width: 250px;
+           position: relative;
+    top: 48px;
+    left: 37px;
+            color: plum;
+}
+        .emti{
+           background-color: #b2f530;
+    width: 35px;
+    /*height: 35px;*/
+    border-radius: 50%;
+    position: relative;
+    top: 107px;
+    left: 41px;
+}
+        
+        .lm{
+            width: 100px;
+           position: relative;
+    top: 81px;
+    left: 96px;
+            color: plum;
+        }
+/* finish  */
+
+#fluid{
+   
+}
+
+#image3{
+     height: 300px;
+    width: 100%;
+    border-bottom-right-radius: 105px;
+    border-top-left-radius: 105px; 
+}
+#im{
+    
+    font-size: 35px;
+    color: aliceblue;
+   position: relative;
+    top: -250px;
+    left: 70px;
+}
+#btn2{
+width: 177px;
+    border-radius: 30px;
+    background-color: greenyellow;
+     position: relative;
+    top: -233px;
+    left: 73px;
+    }
+/*next part*/
+
+#main5{
+    
+    
+}
+#image5{
+    
+}
+/* images css */
+.display{
+        position: relative;
+    top: 10px;
+    left: -70px;
+    
+}
+
+.image5{
+           border: 1px solid black;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 164px;
+    height: 175px;
+            border-top-left-radius: 40px;
+            transform: rotate(-20deg);
+        }
+        .image5 img{
+            position: relative;top: 7px;
+            left: 10px;
+            border-top-left-radius: 40px;
+        }
+        .be{
+             position: relative;
+    top: 0px;
+    left: 0px;
+    transform: rotate(-20deg);
+            color:green;
+        }
+        .display1{
+                position: relative;
+    top: 0px;
+    left: 0px;
+        }
+        .image6{
+            border: 1px solid black;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 164px;
+    height: 175px;
+    border-top-left-radius: 40px;
+        }
+        .image6 img{
+            position: relative;top: 7px;
+            left: 10px;
+            border-top-left-radius: 40px;
+        }
+        .af{
+              position: relative;
+    top: 0px;
+    left: 2px;
+            color:green;
+        }
+
+
+/*end      */
+#story{
+    font-size: 13px;
+    color: lightgreen;
+}
+#your{
+    font-size: 33px;
+    
+    font-weight: bold;
+    
+}
+#is{
+    font-size: 11px;
+    
+}
+#step{
+    font-size: 13px;
+}
+#reative{
+    font-size: 13px;
+    color: lightgreen;
+}
+#our{
+    font-size: 13px;
+    color: greenyellow;
+}
+#why{
+    font-size: 33px;
+    font-weight: bold;
+}
+/*this css is for four boxes*/
+.squaee1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: skyblue;
+    position: relative;
+    top: 22px;
+    left: 15px;
+}
+.phys{
+    width: 200px !important;
+            font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: -12px;
+    left: 70px;
+        }
+        .healt{
+                width: 250px !important;
+            font-size: 12px;
+    position: relative;
+    top: 3px;
+    left: 70px;
+        }
+.d1 ,.d2 ,.d3 ,.d4{
+    border: 0px solid black;
+    margin-top: 10px;
+    padding: 0px 0px 8px 0px;
+    border-radius: 9px;
+}
+/*main 7*/
+#main7{
+    width: 100%;
+    height:470px;
+    background-color: #722df2;
+    border-top-left-radius: 105px;
+    border-bottom-right-radius: 105px;
+}
+.emp{
+     width: 40px;
+            height: 50px;
+            background-color: greenyellow;
+            border-top-right-radius: 8px;
+            border-bottom-left-radius: 8px;
+}
+
+
+/* this is a form section*/
+.foam{
+            width: 300px;
+            height: 380px;
+            
+            border-top-left-radius: 50px;
+            border-bottom-right-radius: 50px;
+            position: relative;top: -76px;
+            left:752px;
+            border: 1px solid black;
+        }
+        form{ 
+        width: 300px;
+            height: 380px;
+            background-color: white;
+            border-top-left-radius: 50px;
+            border-bottom-right-radius: 50px;
+            position: relative;top: 14px;
+            left:-20px;
+            border: 1px solid black;
+        }
+        .req{
+            width: 250px !important;
+            font-size: 19px;
+            font-weight: bold;
+            position: relative;top: 27px;
+            left:57px;
+        }
+        .suff{
+            width: 250px !important;
+            font-size: 13px;
+    position: relative;
+    top: 38px;
+    left: 31px; 
+        }
+        input{
+            position: relative;
+    top: 59px;
+    left: 50px;
+    width: 200;
+    height: 22px;
+    font-size: 11px;
+    border-radius: 30px;
+    padding: 0px 0px 0px 10px;
+            margin: 17px 0px 0px 0px !important;
+        }
+        button-1{
+                position: relative;
+    top: 96px;
+    left: 95px;
+    background-color: greenyellow;
+            font-size: 12px;
+            padding: 6px 13px 7px 13px;
+            border-radius: 30px !important;
+        }
+/*end  */
+#latest{
+    font-size: 13px;
+    color: #722df2;
+}
+#news{
+    font-size: 30px;
+    font-weight: bold;
+}
+.may{
+    font-size: 11px;
+    color: purple;
+}
+.fit{ font-size: 11px;
+    color: purple;}
+.stay{font-size: 25px;font-weight: bold;
+    color:;}
+.exce{
+    font-size: 10px;
+    color: purple;
+}
+.km{font-size: 11px;
+    color: greenyellow;}
+
+
+/* this is last things  */
+
+#main9{
+    height: 300px;
+    background-color: blue;
+    border-top-left-radius: 105px;
+    border-top-right-radius: 105px;
+}
+#med{
+    padding: 15px 0px;
+    font-size: 35px;
+    color: white;
+    
+    font-family: 'Itim', cursive !important;
+}
+#fnav li{
+    list-style: none;
+    
+}
+#icons{
+    
+}
+#feel{
+    
+}
+#info{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
